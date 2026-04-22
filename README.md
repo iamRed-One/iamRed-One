@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambali Ridwan</h1>
-<h3 align="center">An Awesome Frontend Developer from Nigeria</h3>
+<h3 align="center">An Awesome Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamRed-One&label=Profile%20views&color=0e75b6&style=flat" alt="iamRed-One" /> </p>
 
